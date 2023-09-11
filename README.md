@@ -5,3 +5,5 @@
 “For the human mind, the tree is the easiest vehicle for complex thoughts. But the city is not, cannot and must not be a tree. The city is a receptacle for life. If the receptacle severs the overlap of the strands of life within it, because it is a tree, it will be like a bowl full of razor blades on edge, ready to cut up whatever is entrusted to it. In such a receptacle life will be cut to pieces. If we make cities which are trees, they will cut our life within to pieces.”
 
 “In general, software on today's hardware can pretty much always be very fast. The hardware is kind of amazing, and even the networks are amazing, so there really isn't ever any reason anymore for things to be slow. The reason they're slow is because we don't spend time making them fast.”
+
+“When you were new to programming you wrote simple code. Although you may not have appreciated it at the time, this was a great strength.”
